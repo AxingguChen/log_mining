@@ -269,10 +269,10 @@ def loop_logs(folder,file_prefix,log_id, howmany,result_file):
 file_prefix = 'application_1539329557024_'
 
 #input1
-folder = 'sparklog20181227/'
-log_id  = 737265
-file_to_read = 1500
-result_file = 'result/result_v1_new_v1.csv'
+folder = 'sparklog20190122-2/'
+log_id  = 983548
+file_to_read = 600
+result_file = 'result/result_v3-2.csv'
 
 #input
 # folder = 'sparklog_100119/'
